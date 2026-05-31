@@ -38,6 +38,12 @@ Add the package in Xcode:
 File > Add Package Dependencies...
 ```
 
+Use this repository URL:
+
+```text
+https://github.com/pol-cova/LaunchNotes
+```
+
 Then import it where you build your app UI:
 
 ```swift
